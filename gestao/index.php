@@ -1,3 +1,3 @@
 <html>
-<h1>Bem Vindo a Unimape</h1>
+<h1>Bem Vindo</h1>
 </html>
