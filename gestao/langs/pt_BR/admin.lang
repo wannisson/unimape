@@ -791,7 +791,7 @@ SimpleNumRefModelDesc=Retorna o número de referênciaReturns com o formato %syy
 ShowProfIdInAddress=Mostrar id proficional com endereço no documento
 ShowVATIntaInAddress=Esconder ICMS dentro num com endereços no documento
 TranslationUncomplete=Tradução parcial
-SomeTranslationAreUncomplete=Algumas línguas pode ter sido parcialmente traduzida ou conter erros. Se você detectar algum, você pode corrigir <b>.lang</b> nos arquivos de texto no diretório <b>htdocs/langs</b> e submeter ele no fórum no <a href="http://www.dolibarr.org/forum" target="_blank">http://www.dolibarr.org</a>.
+SomeTranslationAreUncomplete=Algumas línguas pode ter sido parcialmente traduzida ou conter erros. Se você detectar algum, você pode corrigir <b>.lang</b> nos arquivos de texto no diretório <b>htdocs/langs</b> e submeter ele no fórum no <a href="http://www.unimape.com.br/forum" target="_blank">http://www.unimape.com.br</a>.
 MAIN_DISABLE_METEO=Desativar visualização meteo
 TestLoginToAPI=Teste de login para API
 ProxyDesc=Algumas funções do Dolibarr precisam ter acesso a internet para funcionar. Defina esses parâmetros aqui. se o servidor Dolibarr esta atrás de um servidor de proxy, esses parâmetros falam pro Dolibarr como acessar a internet através disso.

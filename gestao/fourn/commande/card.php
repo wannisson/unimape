@@ -1166,7 +1166,7 @@ if (empty($reshook))
 	    $ws_thirdparty  = GETPOST('ws_thirdparty','int');
 
 	    // NS and Authentication parameters
-	    $ws_ns='http://www.dolibarr.org/ns/';
+	    $ws_ns='http://www.unimape.com.br/ns/';
 	    $ws_authentication=array(
 	        'dolibarrkey'=>$ws_key,
 	        'sourceapplication'=>'DolibarrWebServiceClient',
@@ -2230,7 +2230,7 @@ elseif (! empty($object->id))
 		$ws_password = GETPOST('ws_password','alpha');
 
         // NS and Authentication parameters
-        $ws_ns = 'http://www.dolibarr.org/ns/';
+        $ws_ns = 'http://www.unimape.com.br/ns/';
         $ws_authentication = array(
             'dolibarrkey'=>$ws_key,
             'sourceapplication'=>'DolibarrWebServiceClient',

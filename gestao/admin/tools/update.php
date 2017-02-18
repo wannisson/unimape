@@ -39,7 +39,7 @@ if (GETPOST('msg','alpha')) {
 }
 
 
-$urldolibarr='http://www.dolibarr.org/downloads/';
+$urldolibarr='http://www.unimape.com.br/downloads/';
 $urldolibarrmodules='https://www.dolistore.com/';
 $urldolibarrthemes='https://www.dolistore.com/';
 $dolibarrroot=preg_replace('/([\\/]+)$/i','',DOL_DOCUMENT_ROOT);

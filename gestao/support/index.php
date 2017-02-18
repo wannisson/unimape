@@ -91,8 +91,8 @@ if (preg_match('/fr/i',$langs->defaultlang)) $urlwiki='http://wiki.dolibarr.org/
 if (preg_match('/es/i',$langs->defaultlang)) $urlwiki='http://wiki.dolibarr.org/index.php/Portada';
 print '<br>'.$langs->trans("ForDocumentationSeeWiki",$urlwiki,$urlwiki);
 print '<br>';
-$urlforum='http://www.dolibarr.org/forum/';
-$urlforumlocal='http://www.dolibarr.org/forum/';
+$urlforum='http://www.unimape.com.br/forum/';
+$urlforumlocal='http://www.unimape.com.br/forum/';
 if (preg_match('/fr/i',$langs->defaultlang)) $urlforumlocal='http://www.dolibarr.fr/forum/';
 if (preg_match('/es/i',$langs->defaultlang)) $urlforumlocal='http://www.dolibarr.es/index.php/foro/';
 if (preg_match('/it/i',$langs->defaultlang)) $urlforumlocal='http://www.dolibarr.it/forum/';

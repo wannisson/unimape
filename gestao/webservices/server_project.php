@@ -69,7 +69,7 @@ $listofreferent=array(
 $server = new nusoap_server();
 $server->soap_defencoding='UTF-8';
 $server->decode_utf8=false;
-$ns='http://www.dolibarr.org/ns/';
+$ns='http://www.unimape.com.br/ns/';
 $server->configureWSDL('WebServicesDolibarrOther',$ns);
 $server->wsdl->schemaTargetNamespace=$ns;
 

@@ -1317,6 +1317,9 @@ form#login {
 	color: #888888;
 	text-shadow: 1px 1px 1px #FFF;
 }
+.login_table_title center {
+	display: none;
+}
 .login_table label {
 	text-shadow: 1px 1px 1px #FFF;
 }

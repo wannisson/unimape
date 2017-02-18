@@ -110,7 +110,7 @@ print $langs->trans("OtherInformations").':';
 
 print '<ul>';
 print '<li>';
-print '<a target="_blank" href="http://www.dolibarr.org/" rel="external">'.$langs->trans("OfficialWebSite").'</a>';
+print '<a target="_blank" href="http://www.unimape.com.br/" rel="external">'.$langs->trans("OfficialWebSite").'</a>';
 print '</li>';
 // Show local site
 if (preg_match('/^fr_/i',$langs->getDefaultLang()))
@@ -151,7 +151,7 @@ print '</ul>';
 print $langs->trans("Demo").':';
 print '<ul>';
 print '<li>';
-print '<a target="_blank" href="http://www.dolibarr.org/onlinedemo/" rel="external">'.$langs->trans("OfficialDemo").'</a>';
+print '<a target="_blank" href="http://www.unimape.com.br/onlinedemo/" rel="external">'.$langs->trans("OfficialDemo").'</a>';
 print '</li>';
 print '</ul>';
 
